@@ -11,8 +11,8 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 1rem;
     background: #1aa1ad;
-    background-image: url('images/bg-pattern-top.svg'),
-        url('/images/bg-pattern-bottom.svg');
+    background-image: url('./images/bg-pattern-top.svg'),
+        url('./images/bg-pattern-bottom.svg');
     background-repeat: no-repeat;
     background-size: cover;
 }
