@@ -25,7 +25,7 @@ body {
 }
 
 .container-one {
-    background-image: url("/images/bg-pattern-card.svg");
+    background: url("../images/bg-pattern-card.svg");
     background-repeat: no-repeat;
     min-height: 130px;
     background-size: cover;
