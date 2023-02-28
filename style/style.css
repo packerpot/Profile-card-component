@@ -10,8 +10,10 @@
 body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 1rem;
-    background: url("/images/bg-pattern-bottom.svg"), #1aa1ad;
+    background: #1aa1ad;
+    background-image: url("/images/bg-pattern-top.svg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
@@ -22,7 +24,7 @@ body {
 }
 
 .container-one {
-    background: url("/images/bg-pattern-card.svg");
+    background-image: url("../images/bg-pattern-card.svg");
     background-repeat: no-repeat;
     min-height: 130px;
     background-size: cover;
